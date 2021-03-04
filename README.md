@@ -1,6 +1,10 @@
 # Firebase link
 https://taks-planner-app-b52e8.web.app/
 
+## Login por primera vez
+User: David
+Contraseña: 123
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
